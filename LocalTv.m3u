@@ -27,3 +27,9 @@ https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 #EXTINF:0,KDRAMA TV
 http://210.210.155.35/uq2663/h/h08/01.m3u8
+#EXTINF:0,DENS FOOD CHANNEL
+http://rr3.dens.tv/s/s50/live.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Dens_Food_Channel_Trial-
+#EXTINF:0,RODJA TV
+http://rr2.dens.tv/s/s14/index10.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=RodjaTV
+#EXTINF:0,O CHANNEL
+http://rr3.dens.tv/s/s73/index2.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=O_Channel_Trial-
