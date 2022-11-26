@@ -37,7 +37,8 @@ http://rr3.dens.tv/s/s73/index2.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=82934
 http://rr1.dens.tv/h/h02/index10.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=ANIPLUS_HD
 #EXTINF:0,KPLUS TV
 http://210.210.155.35/uq2663/h/h08/01.m3u8
-#EXTINF:0 user-agent="AppleWebKit/537.36 (KHTML, like Gecko)",RCTI
+
+#EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/78/RCTI_2015.svg/512px-RCTI_2015.svg.png" group-title="General" user-agent="AppleWebKit/537.36 (KHTML, like Gecko)",RCTI (720p)
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=AppleWebKit/537.36 (KHTML, like Gecko)
 https://d35d0ifx19oopq.cloudfront.net/RCTI_2021.m3u8
